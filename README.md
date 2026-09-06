@@ -32,4 +32,4 @@ Format: CSV
 Processing: Cleaned and analyzed using Python, Pandas & NumPy
 Visualization: Power BI
 
-Dashboard link:
+Dashboard link:https://github.com/PranjaliS1811/Customer_purchase_repo/blob/8c87819aaece4b29a1b1e86fab63f112587f1352/Customer%20data%20analysis%20dashboard.png
