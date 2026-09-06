@@ -19,9 +19,17 @@ NumPy: – Used for numerical calculations and data manipulation.
 Power: BI – Used to create interactive visualizations, charts, KPIs, and the final dashboard.
 DAX :– Used to create calculated measures and perform analytical calculations in Power BI.
 
+#Business Insights
+High-value categories: A small number of categories contribute a significant share of the overall product value, making them important for revenue and inventory planning.
+Discounting strategy: The dashboard shows considerable variation between MRP and discounted selling price, indicating that discounts are an important pricing strategy across products.
+Category price variation: Average selling prices differ noticeably across categories, helping identify premium and low-priced product segments.
+Inventory opportunities: Categories with lower selling prices but a large number of products can represent high-volume opportunities, while expensive categories may require more selective inventory management.
+
 #Data Source
 The dataset used in this project was sourced from Kaggle and contains the raw data required for analysis and dashboard creation.
 Source: Kaggle
 Format: CSV
 Processing: Cleaned and analyzed using Python, Pandas & NumPy
 Visualization: Power BI
+
+Dashboard link:
